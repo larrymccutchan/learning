@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kanatanaIntro", "kanatanaIntro\kanatanaIntro.csproj", "{21CE75F6-4C16-49FE-97B9-A9F3C0726DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity", "identity\Identity.csproj", "{FE65ECAF-7AE1-4221-92AA-66E9CC36838C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CE75F6-4C16-49FE-97B9-A9F3C0726DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CE75F6-4C16-49FE-97B9-A9F3C0726DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CE75F6-4C16-49FE-97B9-A9F3C0726DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CE75F6-4C16-49FE-97B9-A9F3C0726DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE65ECAF-7AE1-4221-92AA-66E9CC36838C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE65ECAF-7AE1-4221-92AA-66E9CC36838C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE65ECAF-7AE1-4221-92AA-66E9CC36838C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE65ECAF-7AE1-4221-92AA-66E9CC36838C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
